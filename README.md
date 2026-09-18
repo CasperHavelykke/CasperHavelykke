@@ -4,9 +4,8 @@ I'm a developer based in Kalundborg / Copenhagen, working in TypeScript, React a
 
 ## What I'm doing
 
-- 💼 Web Developer at Brating - WordPress, Shopify, custom solutions
 - 🚀 Building Røket (https://roketapp.eu/) - a distance-based social app in **React Native**, live in Google Play Store
-- 📚 Maintaining danmanga.dk (https://danmanga.dk) - a Next.js manga forum with reading tracker, real-time chat and discussions
+- 📊 Building [Loggen](https://github.com/CasperHavelykke/log) — my self-hosted life dashboard with AI access via MCP ([live demo](https://demo.loggen.app))
 
 ## Stack
 
